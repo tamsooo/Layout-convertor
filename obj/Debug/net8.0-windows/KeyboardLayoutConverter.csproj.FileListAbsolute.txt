@@ -1,0 +1,16 @@
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.Form1.resources
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.csproj.GenerateResource.cache
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\bin\Debug\net8.0-windows\KeyboardLayoutConverter.exe
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\bin\Debug\net8.0-windows\KeyboardLayoutConverter.deps.json
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\bin\Debug\net8.0-windows\KeyboardLayoutConverter.runtimeconfig.json
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\bin\Debug\net8.0-windows\KeyboardLayoutConverter.dll
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\bin\Debug\net8.0-windows\KeyboardLayoutConverter.pdb
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.dll
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\refint\KeyboardLayoutConverter.dll
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.pdb
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\KeyboardLayoutConverter.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\KeyboardLayoutConverter\KeyboardLayoutConverter\obj\Debug\net8.0-windows\ref\KeyboardLayoutConverter.dll
